@@ -1,16 +1,25 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="ICSDemo/HomeActivity.cs">
+    <Files>
+      <File FileName="ICSDemo/HomeActivity.cs" Line="10" Column="18" />
+      <File FileName="ICSDemo/Resources/layout/Main.axml" Line="10" Column="30" />
+      <File FileName="ICSDemo/CatalogActivity.cs" Line="19" Column="3" />
+      <File FileName="ICSDemo/Resources/layout/ListItem.axml" Line="7" Column="12" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State expanded="True">
-          <Node name="M4A-Widget-Demo" expanded="True">
+          <Node name="ICSDemo" expanded="True">
+            <Node name="Resources" expanded="True">
+              <Node name="layout" expanded="True" />
+            </Node>
             <Node name="HomeActivity.cs" selected="True" />
           </Node>
         </State>
       </Pad>
       <Pad Id="ClassPad">
-        <State expanded="True" selected="True" />
+        <State selected="True" />
       </Pad>
       <Pad Id="MonoDevelop.Debugger.WatchPad">
         <State>

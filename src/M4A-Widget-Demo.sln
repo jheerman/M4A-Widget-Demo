@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M4A-Widget-Demo", "M4A-Widget-Demo.csproj", "{7C607A63-B440-4019-954B-652055ECDA51}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ICSDemo", "ICSDemo\ICSDemo.csproj", "{5053FE63-1A4F-48DF-A97F-627D52E697C7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,12 +9,12 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{7C607A63-B440-4019-954B-652055ECDA51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7C607A63-B440-4019-954B-652055ECDA51}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7C607A63-B440-4019-954B-652055ECDA51}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7C607A63-B440-4019-954B-652055ECDA51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5053FE63-1A4F-48DF-A97F-627D52E697C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5053FE63-1A4F-48DF-A97F-627D52E697C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5053FE63-1A4F-48DF-A97F-627D52E697C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5053FE63-1A4F-48DF-A97F-627D52E697C7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
-		StartupItem = M4A-Widget-Demo.csproj
+		StartupItem = ICSDemo\ICSDemo.csproj
 	EndGlobalSection
 EndGlobal
